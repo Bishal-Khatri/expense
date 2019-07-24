@@ -9,7 +9,7 @@ export default class Expense extends React.Component {
         <View style={styles.tempNav} >
           <Text>Expense</Text>
         </View>
-        {/* <ExpenseForm /> */}
+        <ExpenseForm />
       </View>
     )
   }
